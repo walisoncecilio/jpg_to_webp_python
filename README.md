@@ -1,1 +1,3 @@
-# jpg_to_webp_python
+# Jpg To Webp Python
+
+`https://developers.google.com/speed/webp`
